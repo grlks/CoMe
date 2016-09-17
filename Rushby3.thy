@@ -1,8 +1,8 @@
-theory Rushby
+theory Rushby3
 imports Main
 begin
 
-typedecl u -- "U_beings"
+typedecl u -- "Ubeings"
 
 consts "g" :: "u \<Rightarrow> u \<Rightarrow> bool" (infixr "\<^bold>>" 54)
 consts "k" :: "u \<Rightarrow> u \<Rightarrow> bool" (infixr "\<^bold><" 54)

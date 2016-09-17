@@ -5,6 +5,6 @@ session "Projekt" = "HOL" +
     (* Bar *)
   theories
     (* Baz *)
-	Rushby3.thy
+	Rushby3
   document_files
     "root.tex"
